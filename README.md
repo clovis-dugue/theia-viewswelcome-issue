@@ -9,4 +9,4 @@
 
 ## Noteworthy environment details
 
-The extension is developped in TypeScript, and packaged using Webpack ; all from VSCode's generator using `yo code` and specifying this environement.
+The extension is developped in TypeScript, and packaged using Webpack ; all from VSCode's generator using `yo code` and specifying this environement. The same issue occurs even when not using Webpack
